@@ -1,6 +1,4 @@
 #AID1911 GIT学习
 
-
-##第一种方案
-
+#python第二阶段
 ![](timg1.jpeg)
